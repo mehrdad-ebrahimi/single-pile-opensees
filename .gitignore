@@ -1,0 +1,10 @@
+# OpenSees output
+output/
+diagram/
+*.txt
+*.out
+*.log
+*.ops
+RreactionEndC
+shearKey
+shearKey1
